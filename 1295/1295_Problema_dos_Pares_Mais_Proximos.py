@@ -1,5 +1,5 @@
 # ========================================================================================================================
-# Beecrowd - 1295 - Problema dos Pares Mais Proximos - Nivel 69
+# Beecrowd - 1295 - Problema dos Pares Mais Proximos - Nivel 9
 # ========================================================================================================================
 # Teoria: Dividir e Conquistar
 # Algoritmo utilizado: Algoritmo do par de pontos mais proximo
